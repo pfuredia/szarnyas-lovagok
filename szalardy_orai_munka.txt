@@ -1,0 +1,16 @@
+git clone
+cd
+git status
+git add 
+git commit
+git push origin main
+git push origin master
+
+mergeles
+
+git checkout
+git fetch origin
+git pull origin main
+git merge 
+git add 
+git commit

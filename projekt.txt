@@ -1,0 +1,20 @@
+git clone
+cd (repository)
+git status
+touch .txt
+nano .txt
+git add
+git commit 
+git push origin main
+git push origin master
+
+merge
+
+git checkout (branch)
+git fetch origin
+git pull origin main
+git merge (branch)
+git add 
+git commit -m
+git merge --no-ff (branch)
+
